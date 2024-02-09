@@ -9,13 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-tabs": "^1.0.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.323.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
     "rehype-pretty-code": "^0.12.6",
     "rehype-stringify": "^10.0.0",
     "remark-parse": "^11.0.0",
-    "remark-rehype": "^11.1.0"
+    "remark-rehype": "^11.1.0",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
